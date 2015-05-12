@@ -1,0 +1,8 @@
+James Ziemba
+Started this assignment on February 19. Finished it on February 23.
+I did not receive any outside help.
+I did consult StackOverflow.
+I really enjoyed this exercise. I liked being able to use my code I used previously because I am able to understand it easier
+While the concept of randomly picking a word from the largest list of words was not too difficult, debugging my code took 
+quite a while. It took me a while to recognize that I need to redefine the list from which I am randomly picking a word every
+time a guess is made (the list was never getting smaller).
